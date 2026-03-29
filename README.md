@@ -19,9 +19,9 @@
 
 ## 📫 Onde me encontrar
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](SEU_LINK)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](SEU_LINK)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:eduardocavallin2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/eduardoaugustooliveira)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/eduuh.zzzss/)
 
 ## 🚀 Linguagens e Ferramentas
 
