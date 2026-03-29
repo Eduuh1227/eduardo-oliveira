@@ -31,6 +31,7 @@
 
 
 ## 📊 Estatísticas
+![Uploading download.jpg…]()
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=dark)
 
@@ -38,7 +39,7 @@
 
 
 <p align="center">
-  <img src="https://br.pinterest.com/pin/12455336471088866/" width="400px"/>
+  <img src="https://i.pinimg.com/736x/d1/ed/17/d1ed17d31d43e283aaff510a4d96c63f.jpg" width="400px"/>
 </p>
 
 
