@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Front-End Developer <br>
-🚀 Criando projetos com HTML, CSS e JS
+ Criando projetos com HTML, CSS e JS
 </p>
 
 ---
