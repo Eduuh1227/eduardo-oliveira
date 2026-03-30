@@ -1,5 +1,3 @@
-![240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e](https://github.com/user-attachments/assets/a4b8a014-acd1-44f0-9988-646080051227)# eduardo-oliveira
-
 <h1 align="center">Hello, I'm Eduardo 👋</h1>
 
 <p align="center">
@@ -39,7 +37,8 @@
 
 
 <p align="center">
-  <img src="[![240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e](https://github.com/user-attachments/assets/71ab59e9-24cf-481d-8524-70b891e1ae11)" width="400px"/>
+  <img src="[![![240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e](https://github.com/user-attachments/assets/a4b8a014-acd1-44f0-9988-646080051227)# eduardo-oliveira
+)" width="400px"/>
 </p>
 
 
